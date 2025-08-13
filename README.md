@@ -1,4 +1,12 @@
+# DeepImpact
 
+**DeepImpact** is a machine learning-based analysis tool designed to automatically analyze images from the **Impaktorverfahren** (impactor process) as described in **VDI 2066 Blatt 10:2004-10**.
+
+## Features
+- Utilizes **Mask R-CNN** to segment and measure all droplets in an image.
+- Provides a **data synthesis script** for generating custom datasets.
+- Streamlines analysis of droplet size, distribution, and other impactor characteristics.
+- 
 ![data](https://github.com/DeepTensorMax/DeepParticle/assets/83761766/859a0784-2cac-4850-b27e-d12ddeecbf76)
 
 ________________________________________________________________________________________________________________________
