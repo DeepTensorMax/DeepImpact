@@ -6,6 +6,7 @@
 - Utilizes **Mask R-CNN** to segment and measure all droplets in an image.
 - Provides a **data synthesis script** for generating custom datasets.
 - Streamlines analysis of droplet size, distribution, and other impactor characteristics.
+- Robust Inference thanks to data augmentation and artefact placement on training data
 
 ![data](https://github.com/DeepTensorMax/DeepParticle/assets/83761766/859a0784-2cac-4850-b27e-d12ddeecbf76)
 
