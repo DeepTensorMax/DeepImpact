@@ -1,1 +1,1 @@
-![comparison real synthetic](comparison real synthetic.PNG)
+![Comparison Real vs Synthetic](comparison_real_synthetic.PNG)
